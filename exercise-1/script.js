@@ -10,7 +10,7 @@ const menu = {
 
 menu.ativar();
 
-["10", "20", "30"].map(Number);
+["10", "20", "30"].map(Number); //não esta no video
 "JavaScript".toUpperCase();
 
 const body = document.querySelector("body");
