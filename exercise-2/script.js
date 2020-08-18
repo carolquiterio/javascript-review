@@ -1,3 +1,4 @@
+//arrow function
 function upperName(name) {
   return name.toUpperCase();
 }
