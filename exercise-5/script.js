@@ -1,5 +1,5 @@
 //module
-
+//precisa do live server
 import { areaQuadrado, perimetroQuadrado } from "./quadrado.js";
 import numeroAleatorio from "./numeroAleatorio.js";
 import Ciculo from "./Circulo.js";

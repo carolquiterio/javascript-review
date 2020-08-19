@@ -5,7 +5,8 @@ function handleMouseMove({ clientX, clientY }) {
 
 const frutas = ["Banana", "Uva"];
 
-const [fruta1, fruta2] = frutas;
+const [frutaUm, frutaDois] = frutas;
+//console.log(frutaUm, frutaDois);
 
 const useState = [
   "blue",
@@ -16,4 +17,6 @@ const useState = [
 
 const [color, setColor] = useState;
 
-// document.documentElement.addEventListener("mousemove", handleMouseMove);
+//setColor("red");
+
+//document.documentElement.addEventListener("mousemove", handleMouseMove);

@@ -8,16 +8,16 @@ fetch("https://ranekapi.origamid.dev/wp-json/api/produto")
   });
 
 const data = {
-  id: "andrerafa",
-  nome: "Andre",
-  email: "andrerafa@origamid.com",
+  id: "carol",
+  nome: "ca",
+  email: "carol@carol.com",
   senha: "123456",
-  cep: "123456",
-  rua: "Ali Perto",
-  numero: "230",
-  bairro: "Botafogo",
-  cidade: "Rio de Janeiro",
-  estado: "Rio de Janeiro"
+  cep: "001",
+  rua: "Amelia",
+  numero: "87",
+  bairro: "Taquaral",
+  cidade: "Campinas",
+  estado: "São Paulo"
 };
 
 fetch("https://ranekapi.origamid.dev/wp-json/api/usuario", {
@@ -36,15 +36,15 @@ fetch("https://ranekapi.origamid.dev/wp-json/api/usuario", {
 
 // const data = {
 //   id: Math.random() + "andrerafa",
-//   nome: "Andre",
-//   email: Math.random() + "andrerafa@origamid.com",
-//   senha: "123456",
-//   cep: "123456",
-//   rua: "Ali Perto",
-//   numero: "230",
-//   bairro: "Botafogo",
-//   cidade: "Rio de Janeiro",
-//   estado: "Rio de Janeiro"
+//   nome: "carol",
+//   email: Math.random() + "carol@carol.com",
+//   senha: "00",
+//   cep: "00",
+//   rua: "Amelia",
+//   numero: "87",
+//   bairro: "Taquas",
+//   cidade: "sp",
+//   estado: "sp"
 // };
 // fetch("https://ranekapi.origamid.dev/wp-json/api/usuario", {
 //   method: "POST",

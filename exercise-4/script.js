@@ -33,11 +33,11 @@ console.log(cloneCarro);
 
 // const numeros = [1, 2, 4, 29, 32, 2, 45, 3];
 
-// console.log(Math.max(...numeros));
+// console.log(Math.max(...numeros));  //spread espalha
 
 // const items = document.querySelectorAll("li");
 
-// [...items].map(item => {
+// [...items].map(item => { //... espalha itens dentro de um array
 //   console.log(item);
 // });
 
